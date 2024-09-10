@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um aplicativo de lista de compras simples desenvolvido em JavaFX. Ele permite adicionar, visualizar e exportar itens de uma lista de compras. A interface é estilizada para oferecer uma aparência limpa e funcional.
+Aplicativo de lista de compras com interface gráfica em JavaFX. Permite adicionar, exportar e carregar itens com uma estilização moderna e interativa.
 
 ## Funcionalidades
 
