@@ -39,5 +39,5 @@ Este é um aplicativo de lista de compras simples desenvolvido em JavaFX. Ele pe
 
 ## Interface
 
-![Interface do Aplicativo](ListaDeCompras/recursos/interface.png)
+![Interface do Aplicativo](ListaDeCompras/recursos/Interface.png)
 
